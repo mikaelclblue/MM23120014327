@@ -10,7 +10,7 @@ I am a **Data Consultant** here to help you with all your consultancy needs. My 
 - Build public shared repos for Illustration.
 
 
-![Cute Cat](https://source.unsplash.com/1600x900/?cat)
+[![Cute Cat](https://source.unsplash.com/1600x900/?cat)](https://myoctocat.com/assets/images/base-octocat.svg))
 
 <details>
 <summary>My top languages are as follows:</summary>
