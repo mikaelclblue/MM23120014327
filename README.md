@@ -9,7 +9,6 @@ I am a **Data Consultant** here to help you with all your consultancy needs. My 
 - We have sample files that show some of our past solutions.
 - Build public shared repos for Illustration.
 
-### Enjoy a Public Picture of a Cat 🐱
 
 ![Cute Cat](https://source.unsplash.com/1600x900/?cat)
 
